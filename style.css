@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+  color: #333333;
+}
+
+body {
+  background-color: #f5f4f0;
+}
+
+.container {
+  width: 1120px;
+  margin: 88px auto;
+}
+.desciptionCity {
+  border-bottom: 1px solid #d9d9d9;
+}
+.headline {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #e1624f;
+  margin-bottom: 8px;
+}
+h1,
+h2,
+h3 {
+  color: #1b1b1b;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+.subtitle {
+  margin: 24px auto 40px;
+  font-style: italic;
+  text-align: center;
+}
+
+.contentList {
+  margin: 64px auto;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+ol {
+  padding-left: 38px;
+}
+ol,
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 20px auto 4px;
+}
+span,
+li {
+  font-weight: bold;
+}
+
+.haedong,
+.beomeoSa {
+  margin-bottom: 48px;
+}
+
+.haedong ul,
+.beomeoSa ul {
+  color: #0c51a7;
+}
+.youndusan {
+  padding-bottom: 40px;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.youndusan ul li {
+  color: #591b98;
+}
+.youndusan ul li + li {
+  color: #e5245e;
+}
+.youndusan ul li + li + li {
+  color: #e95e10;
+}
+.conclusion {
+  margin: 40px auto 65px;
+  text-align: center;
+}
+ul {
+  padding-left: 24px;
+}
+footer p {
+  text-align: center;
+}
+footer img {
+  vertical-align: middle;
+}
